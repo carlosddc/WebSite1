@@ -1,0 +1,3 @@
+La página necesita de un script de terceros para funcionar y se puede colocar aquí.
+
+canvasjs.min.js y canvasjs.js que se pueden encontrar en http://canvasjs.com/
