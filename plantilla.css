@@ -1,0 +1,83 @@
+body
+{
+	text-align:center;
+}
+
+p.center
+{
+	text-align:center;
+}
+
+#wrapper-bottom 
+{
+	height:25px;
+	margin: 0 auto;
+	width: 50%;
+}
+
+#wrapper-bottom li
+{
+	float:left;
+	list-style: none outside none;
+	margin:none;
+}
+
+#wrapper-bottom a
+{
+	color:rgb(0,0,0);
+	border-style: none;
+	text-decoration:none;
+	background-color: rgb(100,100,100);
+	padding:5px 10px 5px 10px;
+}
+
+#wrapper-bottom a:hover
+{
+	background-color: rgb(150, 150, 150);
+}
+
+#wrapper-content
+{
+	text-align:center;
+	width:100%;
+	margin:0 auto;
+}
+
+#wrapper-main
+{
+	width: 800px;
+	margin: 0 auto;
+}
+
+#age
+{
+	width:115px;
+	height:50px;
+	float: left;
+	display: table;
+	padding:10px;
+}
+#sex
+{
+	text-align:left;
+	width:115px;
+	float: left;
+	height:50px;
+	padding:10px;
+}
+#city
+{
+	text-align:center;
+	width:130px;
+	float: left;
+	height:50px;
+	padding:10px;
+}
+#transport
+{
+	text-align:center;
+	width:135px;
+	float: left;
+	height:50px;
+	padding:10px 20px 10px 20px;
+}
